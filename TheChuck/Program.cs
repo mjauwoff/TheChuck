@@ -6,6 +6,7 @@ using TheChuck.Infrastructure.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 // HELLOOOOO!!! :)
+// test
 
 // Add services to the container.
 builder.Services.AddRazorPages();
