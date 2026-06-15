@@ -5,7 +5,7 @@ using TheChuck.Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// HELLOOOOO!!! :)
+// HELLOOOOO!!! :0)
 // test
 
 // Add services to the container.
